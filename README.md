@@ -1,4 +1,4 @@
-# Amazon Sales Data Analysis & Dashboard – 2025 | SQL + Power BI
+# Amazon Sales Data Analysis & Dashboard| SQL + Power BI
 
 ## Project Overview
 End-to-end analysis of Amazon sales data (15,000+ orders, ₹1.12B revenue) using SQL and Power BI. Focuses on sales trends, customer behavior, returns, and regional insights.
